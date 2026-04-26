@@ -32,6 +32,17 @@ Project Structure
 * reports/ = Generated attack reports
 * data/ =  processed logs
 
+  ## Screenshots
+
+### Hydra Attack
+![Hydra](screenshots/hydra.png)
+
+### Cowrie Logs
+![Logs](screenshots/cowrie_logs.png)
+
+### Analyzer Output
+![Output](screenshots/analyzer.png)
+
 Conclusion
 
 This project demonstrates basic threat detection and log analysis using honeypot environment.
