@@ -1,0 +1,10 @@
+Top Attacking IPs:
+192.168.64.3 - 3 attempts
+
+Most Used Passwords:
+12345 - 1 times
+123456789 - 1 times
+batman - 1 times
+
+Most Used Usernames:
+root - 3 times
